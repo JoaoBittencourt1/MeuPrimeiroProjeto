@@ -1,2 +1,2 @@
-# MeuPrimeiroProjeto
-primeiro projeto modulo tic trilhas UCB, focado em modificar e fazer operacoes basicas de um arquivo
+# primeiro projeto git
+projeto focado em aprimorar minha dominanci no git e fazer operacoes basicas
